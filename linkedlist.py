@@ -88,10 +88,4 @@ my_ll.append(3)
 print(my_ll.array_linked_list())
 my_ll.reverse_list()
 print(my_ll.array_linked_list())
-# print(my_ll.head)
-# print(my_ll.tail)
 
-# print("Popped:", my_ll.pop().value)  # Should print 3
-# print("Popped:", my_ll.pop().value)  # Should print 2
-# print("Popped:", my_ll.pop().value)  # Should print 1
-# print("Popped:", my_ll.pop())  # Should print None
